@@ -1,0 +1,4 @@
+class supersport: Aston_Martin Vantage -1
+class supersport: McLaren 570S -1
+class supersport: Porsche 911TurboS 506000
+class hothatch: Honda NSX -1

@@ -1,0 +1,12 @@
+4
+Supersport Aston_Martin Vantage 900000
+Supersport McLaren 570S 230000
+Hot-Hatch Honda NSX
+Supersport Porsche 911TurboS 506000
+2
+McLaren 57S 230000
+Porsche 911TurboS 506000
+
+Supersport Aston_Martin DB11V8 8500000
+
+Supersport Audi R8 V10
